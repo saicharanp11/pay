@@ -1,2 +1,2 @@
 # pay
-this is the demo for pay
+this is the demo for app for payment
